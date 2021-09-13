@@ -1,0 +1,85 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.um{
+  background-color: #FFE6E6;
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5em;
+
+}
+
+.top{
+  background-color: #F0D9FF;
+  position: relative;
+  padding-top: 100px;
+  font-weight: normal;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+left: 300px;
+
+}
+
+h1
+{
+  color:  #BFA2DB;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 450%;
+}
+p
+{
+  font-family: 'Merriweather', serif;
+
+}
+.webdev{
+  color:  #BFA2DB;
+  font-size: 2rem;
+}
+h2
+{
+  color: #BFA2DB;
+
+}
+.me{
+  border-radius: 50%;
+}
+.profile{
+  background-color: #FFE6E6;
+  color: #FFABE1;
+}
+.skills{
+  background-color: #FFE6E6;
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5em;
+
+}
+
+.sk{
+  font-size: 5rem;
+  font-family: monospace;
+ text-decoration: underline;}
+ .tab{
+   margin-left: auto;
+ margin-right: auto;
+   color: #FFABE1;
+   font-size: 2.5rem;
+     font-family: monospace;
+ }
+ .bottom-container{
+   color: #FFABE1;
+   font-size: 2.5rem;
+   background-color:  #FFE6E6;
+
+ }
